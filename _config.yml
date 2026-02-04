@@ -1,8 +1,7 @@
 # _config.yml
 title: Alize's Personal Website
 description: "This is a personal website for Alize."
-theme: jekyll-theme-minimal-mistakes
-remote_theme: mmistakes/minimal-mistakes # 关键：使用远程主题，GitHub会自动拉取最新版
+remote_theme: mmistakes/minimal-mistakes 
 minimal_mistakes_skin: "default" # 可选皮肤：air, contrast, dark等
 
 # 侧边栏个人信息（对应“简介”的一部分）
