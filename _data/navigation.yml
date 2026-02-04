@@ -1,0 +1,11 @@
+main:
+  - title: "首页"
+    url: /
+  - title: "项目展示"
+    url: /projects/
+  - title: "教育背景"   # 新增
+    url: /education/
+  - title: "个人经历"   # 新增
+    url: /experience/
+  # - title: "技术博客" # 
+  #   url: /year-archive/
