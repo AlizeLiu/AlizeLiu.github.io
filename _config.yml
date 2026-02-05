@@ -12,7 +12,10 @@ author:
   location: "Shanghai, China"
   email: "255372639[at]st.usst.edu.cn"
   website: "https://github.com/AlizeLiu"
-  links:
+links:
+    - label: "255372639@st.usst.edu.cn"
+      icon: "fas fa-fw fa-envelope-open-text"
+      url: "mailto:255372639@st.usst.edu.cn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AlizeLiu"
