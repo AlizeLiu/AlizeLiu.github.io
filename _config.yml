@@ -8,7 +8,7 @@ minimal_mistakes_skin: "default" # 可选皮肤：air, contrast, dark等
 author:
   name: "刘柏良"
   avatar: "/images/photo1.jpg" 
-  bio: "电子信息研究生在读<br>研究方向：生物医学工程、病理图像处理 <br>"
+  bio: "电子信息研究生在读<br>研究方向：生物医学工程、病理图像处理<br> <br /> 📧 255372639@st.usst.edu.cn"
   location: "Shanghai, China"
   email: "255372639@st.usst.edu.cn" # 修复了格式
 
@@ -19,7 +19,7 @@ links:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/AlizeLiu"
-    
+
 include:
   - _pages
 

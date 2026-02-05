@@ -3,6 +3,7 @@ title: "项目简介"
 permalink: /projects/
 layout: single
 author_profile: true
+toc: true
 ---
 
 ## 🔬 研究项目

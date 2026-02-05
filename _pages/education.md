@@ -3,6 +3,7 @@ title: "教育背景"
 permalink: /education/
 layout: single
 author_profile: true
+toc: true
 ---
 
 <style>
