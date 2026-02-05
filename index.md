@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: single
 permalink: /
 author_profile: true 
+title:
 toc: true
 ---
 
