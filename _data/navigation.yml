@@ -5,7 +5,7 @@ main:
     url: /education/
   - title: "项目经历"
     url: /projects/
-  - title: "个人经历"   
+  - title: "工作经历"   
     url: /experience/
-  # - title: "技术博客" # 
-  #   url: /year-archive/
+  - title: "技术博客" 
+    url: /year-archive/
