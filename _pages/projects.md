@@ -10,7 +10,7 @@ toc: true
 
 {% include feature_row id="project_intro" type="left" %}
 
-### 1. 基于甲状腺癌的的多实例学习
+### 1. 基于甲状腺癌病理的多实例学习
 **时间**：2025.10 - 至今
 
 项目合作单位：上海公利医院病理科
