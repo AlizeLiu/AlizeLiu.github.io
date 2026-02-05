@@ -74,7 +74,7 @@ author_profile: true
     <div class="edu-content">
       <strong>本科 | 计算机科学与技术</strong><br />
       <strong>上海建桥学院</strong><br />
-       <em>核心课程：计算机网络原理、单片机应用系统制作实践、计算机组成原理、深度学习与计算机视觉</em>
+       <em>核心课程：计算机网络原理、单片机应用系统制作实践、计算机组成原理、深度学习与计算机视觉</em><br />
       <em>绩点排名专业内前 10％</em><br />
       <em>相关技术：Golang, K8S, Docker 等云原生组件</em>
     </div>
