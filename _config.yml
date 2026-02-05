@@ -7,18 +7,17 @@ minimal_mistakes_skin: "default" # 可选皮肤：air, contrast, dark等
 # 侧边栏个人信息（对应“简介”的一部分）
 author:
   name: "刘柏良"
-  avatar: "/images/photo1.jpg" 
-  bio: "电子信息研究生在读<br>研究方向：生物医学工程、病理图像处理<br> <br /> 📧 255372639@st.usst.edu.cn"
+  avatar: "/images/photo1.jpg"
+  bio: "电子信息研究生在读<br>研究方向：生物医学工程、病理图像处理<br>📧 255372639@st.usst.edu.cn"
   location: "Shanghai, China"
   email: "255372639@st.usst.edu.cn" # 修复了格式
-
-links:
-  - label: "255372639@st.usst.edu.cn"
-    icon: "fas fa-fw fa-envelope-open-text"
-    url: "mailto:255372639@st.usst.edu.cn"
-  - label: "GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/AlizeLiu"
+  links:
+    - label: "255372639@st.usst.edu.cn"
+      icon: "fas fa-fw fa-envelope-open-text"
+      url: "mailto:255372639@st.usst.edu.cn"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AlizeLiu"
 
 include:
   - _pages
