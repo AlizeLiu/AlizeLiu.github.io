@@ -6,10 +6,12 @@ minimal_mistakes_skin: "default" # 可选皮肤：air, contrast, dark等
 
 # 侧边栏个人信息（对应“简介”的一部分）
 author:
-  name: "刘工"
-  avatar: "/images/photo1.jpg" # 记得上传一张头像
-  bio: "本科计算机 / 硕士生物医学工程<br>研究方向：病理切片图像处理 (WSI, Weakly Supervised Learning)"
-  location: "China"
+  name: "刘柏良"
+  avatar: "/images/photo1.jpg" 
+  bio: "电子信息研究生在读<br>研究方向：生物医学工程、病理图像处理 <br>"
+  location: "Shanghai, China"
+  email: "255372639[at]st.usst.edu.cn"
+  website: "https://github.com/AlizeLiu"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -17,6 +19,6 @@ author:
 
 include:
   - _pages
-# 插件支持（数学公式必备）
+
 plugins:
   - jekyll-include-cache

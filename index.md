@@ -1,14 +1,7 @@
 ---
-layout: splash
+layout: single
 permalink: /
-header:
-  overlay_color: "#5e616c" # 顶部背景色，也可以换成overlay_image
-  overlay_filter: 0.5
-excerpt: "This is a personal website for Alize"
-actions:
-  - label: "相关项目"
-    url: "/projects/"
-    btn_class: "btn--white-inverse"
+author_profile: true 
 ---
 
 ## 👋 About me
@@ -30,4 +23,70 @@ In scientific research, we focus on the application of deep learning in patholog
 In engineering practice, he has experience in back-end system development, and is familiar with high concurrency service design, interface development and performance optimization
 
 ## 🎓 个人奖项及认证
+
+  <dt>2025.10</dt>
+  <dd>
+    <strong>中国足协三级裁判员认证</strong><br />
+    <em>国家体育总局 / 中国足协</em>
+  </dd>
+
+<dl>
+  <dt>2025.09</dt>
+  <dd>
+    <strong>上海理工大学研究生奖学金</strong><br />
+    <em>上海理工大学</em>
+  </dd>
+
+  <dt>2024。01</dt>
+  <dd>
+    <strong>“临港杯”高校信息安全CTF决赛</strong><br />
+    <em> 队长，独立完成web，crypto题目,取得web类B题flag </em>
+  </dd>
+  
+  <dt>2023.12</dt>
+  <dd>
+    <strong>全国大学生数学竞赛三等奖</strong><br />
+  </dd>
+
+  <dt>2023.12</dt>
+  <dd>
+    <strong>上海市大学生数学竞赛三等奖</strong><br />
+  </dd>
+
+  <dt>2023.11</dt>
+  <dd>
+    <strong>上海市高校信息技术水平考试 </strong><br />
+    <em> 二三级物联网开发及应用 三级认证 </em>
+  </dd>
+
+  <dt>2023.09</dt>
+  <dd>
+    <strong>校级二等奖学金</strong><br />
+  </dd>
+
+  <dt>2023.06</dt>
+  <dd>
+    <strong>“一种蜂箱” 实用新型专利 </strong><br />
+    <em>发明人，负责构建数学模型，计算有效空间和成果效益</em>
+  </dd>
+
+  <dt>2023.05</dt>
+  <dd>
+    <strong>华为HCIA 5G认证</strong><br />
+  </dd>
+
+
+  <dt>2023.05</dt>
+  <dd>
+    <strong>美国大学生数学建模竞赛一等奖</strong><br />
+    <em>负责编程及论文写作，提出对抗式模型对船舶价格预测并给出投资建议</em>
+  </dd>
+
+
+
+  <dt>2022.9</dt>
+  <dd>
+    <strong>校级三等奖学金</strong><br />
+  </dd>
+</dl>
 
